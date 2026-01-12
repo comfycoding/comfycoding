@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=30&pause=1000&color=987A79&background=F9FF4E00&width=402&lines=Selam+ben+Emir+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=30&pause=1000&color=524141&background=F9FF4E00&width=402&lines=Selam+ben+Emir+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 ## 🌱 Şu anda React ve GTK4 üzerinde çalışıyorum
 
 
