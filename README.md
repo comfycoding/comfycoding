@@ -2,7 +2,7 @@
 ## 🌱 Şu anda React ve GTK4 üzerinde çalışıyorum
 
 
-## 🌐 Sosyal
+# 🌐 Sosyal
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3HubGvdD) 
 
 # 🛠️ Teknoloji Stack'im
